@@ -40,7 +40,7 @@ tBox虽然在UI设计上借鉴了猫影视的风格，但其源码是完全不�
 	"firstClass": "",
 	"filterPlay": "",
 	"firstPlay": "",
-	"ext": "https://ghp.ci/raw.githubusercontent.com/tt9912/tBox/refs/heads/main/js/6yueting.js",
+	"ext": "https://ghp.ci/raw.githubusercontent.com/leevi0709/tBox/refs/heads/main/js/6yueting.js",
 	"flagable": 0,
 	"filterPlayFileKeywords": "",
 	"keepPlayFileKeywords": "",
@@ -59,7 +59,7 @@ tBox虽然在UI设计上借鉴了猫影视的风格，但其源码是完全不�
 	"firstClass": "",
 	"filterPlay": "",
 	"firstPlay": "",
-	"ext": "https://ghp.ci/raw.githubusercontent.com/tt9912/tBox/refs/heads/main/js/haiyang.js",
+	"ext": "https://ghp.ci/raw.githubusercontent.com/leevi0709/tBox/refs/heads/main/js/haiyang.js",
 	"flagable": 0,
 	"filterPlayFileKeywords": "",
 	"keepPlayFileKeywords": "",
@@ -77,7 +77,7 @@ tBox虽然在UI设计上借鉴了猫影视的风格，但其源码是完全不�
 	"firstClass": "",
 	"filterPlay": "",
 	"firstPlay": "",
-	"ext": "https://ghp.ci/raw.githubusercontent.com/tt9912/tBox/refs/heads/main/js/qtradio.js",
+	"ext": "https://ghp.ci/raw.githubusercontent.com/leevi0709/tBox/refs/heads/main/js/qtradio.js",
 	"flagable": 0,
 	"filterPlayFileKeywords": "",
 	"keepPlayFileKeywords": "",
@@ -103,9 +103,9 @@ User-Agent: okHttp
 
 ------------------------------------------------
 ### 视频源配置链接
-ios端配置（支持嗅探）：https://ghp.ci/raw.githubusercontent.com/tt9912/tBox/refs/heads/main/配置.json
+ios端配置（支持嗅探）：https://ghp.ci/raw.githubusercontent.com/leevi0709/tBox/refs/heads/main/配置.json
 
-安卓端配置（不支持嗅探）：https://ghp.ci/raw.githubusercontent.com/tt9912/tBox/refs/heads/main/安卓配置.json
+安卓端配置（不支持嗅探）：https://ghp.ci/raw.githubusercontent.com/leevi0709/tBox/refs/heads/main/安卓配置.json
 
 
 **关于tBox的更新：**
