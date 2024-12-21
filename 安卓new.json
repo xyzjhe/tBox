@@ -28,20 +28,6 @@
 		"keepPlayFileKeywords": "",
         "recommend": "1"
 	},{
-		"key": "mogg",
-		"name": "🤹‍♂️木偶┃UC盘",
-		"type": 5,
-		"searchable": 1,
-		"filterClass": "",
-		"firstClass": "",
-		"filterPlay": "",
-		"firstPlay": "",
-		"ext": "https://ghproxy.cn/https://raw.githubusercontent.com/tt9912/tBox/refs/heads/main/newjs/mogg.js",
-		"flagable": 0,
-		"filterPlayFileKeywords": "",
-		"keepPlayFileKeywords": "",
-		"selectedPlayer": "0"
-	},{
 		"key": "labi",
 		"name": "🖍蜡笔┃网盘",
 		"type": 5,
